@@ -1,0 +1,16 @@
+{
+  "name": "lab2_mocha_test",
+  "version": "1.0.0",
+  "description": "A simple calculator test project using Mocha and Chai.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --no-cache"
+  },
+  "keywords": ["mocha", "chai", "testing", "calculator"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^11.1.0"
+  }
+}
